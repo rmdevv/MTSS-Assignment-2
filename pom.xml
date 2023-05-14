@@ -140,13 +140,13 @@
               <artifactId>jaxb-api</artifactId>
               <version>2.3.1</version>
           </dependency>
-          <configuration>
+        </dependencies>
+        <configuration>
               <sourceEncoding>UTF-8</sourceEncoding>
               <sourceDirectories>
                   <sourceDirectory>${basedir}/src/main</sourceDirectory>
               </sourceDirectories>
           </configuration>
-        </dependencies>
       </plugin>
 
       <plugin>

@@ -141,9 +141,6 @@
             <version>2.3.1</version>
           </dependency>
         </dependencies>
-        <configuration>
-          <repoToken>${env.COVERALLS_REPO_TOKEN}</repoToken>
-        </configuration>
       </plugin>
 
       <plugin>

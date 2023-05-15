@@ -63,7 +63,7 @@ public class ParameterizedIntegerToRomanTest {
                 { "400", "CD" },
                 { "500", "D" },
                 { "600", "DC" },
-                { "650", "CCCCCLLXXXXX" },
+                { "650", "DCL" },
                 { "700", "DCC" },
                 { "777", "DCCLXXVII" },
                 { "800", "DCCC" },
